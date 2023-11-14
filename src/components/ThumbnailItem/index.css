@@ -1,0 +1,22 @@
+/* Write your code here. */
+.list {
+  list-style-type: none;
+}
+
+.imageAltText {
+  width: 120px;
+  height: 100px;
+  border-radius: 10px;
+  opacity: 0.5;
+  margin-right: 10px;
+}
+
+.active {
+  opacity: 1;
+}
+
+.button {
+  outline: none;
+  border: none;
+  background-color: transparent;
+}
